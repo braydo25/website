@@ -1,6 +1,6 @@
 const Localizations = {
   'languages': [
-    'ar', // Araib
+    'ar', // Arabic
     'da', // Danish
     'de', // German
     'es', // Spanish
@@ -226,16 +226,33 @@ const Localizations = {
     'de': "Myriad ist die erste Währung, die 5 Algorithmen unterstützt, die ASIC, GPU und CPU-Mining unterstützen. Derzeit bestehen diese Algorithmen aus SHA256d, Scrypt, Myr-Groestl, Skein und Yescrypt. Der Multialgorithmus von Myriad bietet eine außergewöhnliche Widerstandsfähigkeit von 51%, da eine Reihe unterschiedlicher Hardware benötigt wird, um 51% der Blöcke zu finden.",
     'es': "Myriad es la primera moneda en admitir 5 algoritmos, que atienden a ASIC, GPU y minería de CPU. Actualmente, esos algoritmos consisten en SHA256d, Scrypt, Myr-Groestl, Skein y Yescrypt. El enfoque de algoritmos múltiples de Myriad ofrece una resistencia excepcional del 51% porque se necesita una gama de hardware diferente para encontrar el 51% de los bloques.",
     'fr': "Myriad est la première devise à prendre en charge 5 algorithmes pour l&#39;extraction ASIC, GPU et CPU. Actuellement, ces algorithmes se composent de SHA256d, Scrypt, Myr-Groestl, Skein et Yescrypt. L&#39;approche multi-algorithme de Myriad offre une résistance exceptionnelle de 51% car une gamme de matériel différent est nécessaire pour trouver 51% des blocs.",
-    'it': "Myriad is the first currency to support 5 algorithms, catering for ASIC, GPU and CPU mining. Currently, those algorithms consist of SHA256d, Scrypt, Myr-Groestl, Skein and Yescrypt. Myriad&#39;s multi algorithm approach offers exceptional 51% resistance because a range of different hardware is needed to find 51% of the blocks.",
+    'it': "Myriad è la prima valuta a supportare 5 algoritmi, che si occupano di estrazione ASIC, GPU e CPU. Attualmente, questi algoritmi consistono in SHA256d, Scrypt, Myr-Groestl, Skein e Yescrypt. L'approccio multi-algoritmo di Myriad offre un'eccezionale resistenza del 51% perché è necessario un range di hardware diverso per trovare il 51% dei blocchi.",
     'ja': "Myriadは、ASIC、GPU、CPUマイニングの5つのアルゴリズムをサポートする最初の通貨です。現在、これらのアルゴリズムは、SHA256d、Scrypt、Myr-Groestl、Skein、およびYescryptで構成されています。 Myriadのマルチアルゴリズムアプローチは、ブロックの51％を見つけるためにさまざまなハードウェアの範囲が必要となるため、51％の耐性を提供します。",
     'ko': "Myriad는 ASIC, GPU 및 CPU 마이닝을위한 5 가지 알고리즘을 지원하는 최초의 통화입니다. 현재 이러한 알고리즘은 SHA256d, Scrypt, Myr-Groestl, Skein 및 Yescrypt로 구성됩니다. Myriad의 멀티 알고리즘 접근법은 블록의 51 %를 찾기 위해 다양한 하드웨어 범위가 필요하기 때문에 탁월한 51 % 저항을 제공합니다.",
-    'nl': "Myriad is the first currency to support 5 algorithms, catering for ASIC, GPU and CPU mining. Currently, those algorithms consist of SHA256d, Scrypt, Myr-Groestl, Skein and Yescrypt. Myriad&#39;s multi algorithm approach offers exceptional 51% resistance because a range of different hardware is needed to find 51% of the blocks.",
+    'nl': "Myriad is de eerste valuta die 5 algoritmen ondersteunt, gericht op ASIC, GPU en CPU-mining. Momenteel bestaan deze algoritmen uit SHA256d, Scrypt, Myr-Groestl, Skein en Yescrypt. De multi-algoritme-benadering van Myriad biedt uitzonderlijke 51% weerstand, omdat een reeks verschillende hardware nodig is om 51% van de blokken te vinden.",
     'pl': "Myriad to pierwsza waluta obsługująca 5 algorytmów, obsługująca kopie ASIC, GPU i procesora. Obecnie algorytmy te składają się z SHA256d, Scrypt, Myr-Groestl, Skein i Yescrypt. Metoda wielorakiego algorytmu Myriad oferuje wyjątkową 51-procentową odporność, ponieważ do znalezienia 51% bloków potrzebny jest szereg różnych urządzeń.",
     'pt': "Myriad é a primeira moeda a suportar 5 algoritmos, catering para ASIC, GPU e mineração de CPU. Atualmente, esses algoritmos consistem em SHA256d, Scrypt, Myr-Groestl, Skein e Yescrypt. A abordagem de múltiplos algoritmos da Myriad oferece uma excepcional resistência de 51%, porque uma gama de hardware diferente é necessária para encontrar 51% dos blocos.",
-    'ro': "Myriad is the first currency to support 5 algorithms, catering for ASIC, GPU and CPU mining. Currently, those algorithms consist of SHA256d, Scrypt, Myr-Groestl, Skein and Yescrypt. Myriad&#39;s multi algorithm approach offers exceptional 51% resistance because a range of different hardware is needed to find 51% of the blocks.",
+    'ro': "Myriad este prima monedă pentru susținerea a 5 algoritmi, care se ocupă de procesarea ASIC, GPU și procesarea minelor. În prezent, acești algoritmi constau din SHA256d, Scrypt, Myr-Groestl, Skein și Yescrypt. Myriad de abordare multi algoritm oferă o rezistență excepțională de 51%, deoarece o gamă de hardware diferite sunt necesare pentru a găsi 51% din blocuri.",
     'ru': "Myriad - первая валюта, поддерживающая 5 алгоритмов, обслуживающих ASIC, GPU и CPU. В настоящее время эти алгоритмы состоят из SHA256d, Scrypt, Myr-Groestl, Skein и Yescrypt. Множественный алгоритм Myriad предлагает исключительное сопротивление 51%, потому что для поиска 51% блоков требуется ряд различных аппаратных средств.",
     'zh_CN': "Myriad是第一个支持5种算法的货币，适用于ASIC，GPU和CPU挖掘。目前，这些算法由SHA256d，Scrypt，Myr-Groestl，Skein和Yescrypt组成。 Myriad的多算法方法提供了51％的优异阻力，因为需要一系列不同的硬件来找到51％的方块。",
     'zh_TW': "Myriad是第一個支持5種算法的貨幣，適用於ASIC，GPU和CPU挖掘。目前，這些算法由SHA256d，Scrypt，Myr-Groestl，Skein和Yescrypt組成。 Myriad的多算法方法提供了51％的優異阻力，因為需要一系列不同的硬件來找到51％的方塊。"
+  },
+  'why-myriad-multi-algorithm-button': {
+    "ar":"لماذا خوارزميات متعددة؟",
+    "da":"Hvorfor flere algoritmer?",
+    "de":"Warum mehrere Algorithmen?",
+    "es":"¿Por qué múltiples algoritmos?",
+    "fr":"Pourquoi plusieurs algorithmes?",
+    "it":"Perché più algoritmi?",
+    "ja":"なぜ複数のアルゴリズム？",
+    "ko":"여러 알고리즘을 사용하는 이유는 무엇입니까?",
+    "nl":"Waarom meerdere algoritmen?",
+    "pl":"Dlaczego wiele algorytmów?",
+    "pt":"Por que múltiplos algoritmos?",
+    "ro":"De ce mai mulți algoritmi?",
+    "ru":"Почему несколько алгоритмов?",
+    "zh_CN":"为什么多种算法？",
+    "zh_TW":"為什麼多種算法？"
   },
   'why-myriad-merge-mining-title': {
     'ar': "دمج التعدين",
@@ -257,19 +274,36 @@ const Localizations = {
   'why-myriad-merge-mining-text': {
     'ar': "يسمح دمج التعدين على خوارزميات SHA256d و سكريبت. وقد مكن هذا لا تعد ولا تحصى للاستفادة من هشراتس ضخمة المستخدمة حاليا من قبل القطع النقدية باستخدام هذه الخوارزميات. دمج التعدين، أو أوكسبو، يسمح للعمل يجري القيام بعملة الأم (مثل بيتكوين أو ليتسوان) لاستخدامها للعثور على كتل صالحة على بلوكشين لا تعد ولا تحصى.",
     'da': "Flet minedrift er tilladt på SHA256d og Scrypt algoritmerne. Dette har gjort det muligt for Myriad at udnytte de enorme hashrates, der i øjeblikket anvendes af mønter, der bruger disse algoritmer. Merge Mining, eller AuxPow, gør det muligt at udføre arbejdet for en forældemynt (f.eks. Bitcoin eller Litecoin), der bruges til at finde gyldige blokke på Myriads blokke.",
-    'de': "Merge mining is allowed on the SHA256d and Scrypt algorithms. This has enabled Myriad to take advantage of the huge hashrates currently in use by coins using these algorithms. Merge Mining, or AuxPow, allows the work being done for a parent coin (such as Bitcoin or Litecoin) to be used to find valid blocks on Myriad&#39;s blockchain.",
+    'de': "Merge Mining ist für die Algorithmen SHA256d und Scrypt zulässig. Dies hat Myriad ermöglicht, die riesigen Hash-Werte, die derzeit von Münzen verwendet werden, mit diesen Algorithmen zu nutzen. Merge Mining, oder AuxPow, erlaubt die Arbeit, die für eine Elternmünze (wie Bitcoin oder Litecoin) getan wird, um gültige Blöcke auf Myriads Blockchain zu finden.",
     'es': "Merge mining está permitido en los algoritmos SHA256d y Scrypt. Esto le ha permitido a Myriad tomar ventaja de los enormes hashrates actualmente en uso por monedas usando estos algoritmos. Merge Mining, o AuxPow, permite que el trabajo que se realiza para una moneda principal (como Bitcoin o Litecoin) se use para encontrar bloques válidos en la cadena de bloques de Myriad.",
-    'fr': "Merge mining is allowed on the SHA256d and Scrypt algorithms. This has enabled Myriad to take advantage of the huge hashrates currently in use by coins using these algorithms. Merge Mining, or AuxPow, allows the work being done for a parent coin (such as Bitcoin or Litecoin) to be used to find valid blocks on Myriad&#39;s blockchain.",
+    'fr': "L'exploration de fusion est autorisée sur les algorithmes SHA256d et Scrypt. Cela a permis à Myriad de tirer parti des énormes hashrates actuellement utilisés par les pièces de monnaie en utilisant ces algorithmes. Merge Mining, ou AuxPow, permet d'utiliser le travail effectué pour une pièce parentale (telle que Bitcoin ou Litecoin) pour trouver des blocs valides dans la blockchain de Myriad.",
     'it': "Unisci mining è consentito negli algoritmi SHA256d e Scrypt. Ciò ha permesso a Myriad di sfruttare gli enormi hashreni attualmente in uso con le monete usando questi algoritmi. Unisci estrazione o AuxPow consente di utilizzare il lavoro svolto per una moneta madre (come Bitcoin o Litecoin) per trovare blocchi validi sulla blockchain di Myriad.",
     'ja': "マージマイニングはSHA256dアルゴリズムとScryptアルゴリズムで許可されています。これによりMyriadは、これらのアルゴリズムを使用するコインによって現在使用されている巨大なハッシュレートを利用することができました。 Merge MiningまたはAuxPowを使用すると、親コイン（BitcoinやLitecoinなど）の作業をMyriadのブロックチェーン上の有効なブロックを見つけるために使用できます。",
     'ko': "병합 마이닝은 SHA256d 및 Scrypt 알고리즘에서 허용됩니다. 이로써 Myriad는이 알고리즘을 사용하는 동전에 의해 현재 사용중인 거대한 해시를 이용할 수있게되었습니다. 병합 광업 또는 AuxPow를 사용하면 부모 동전 (예 : Bitcoin 또는 Litecoin)에 대한 작업을 통해 Myriad의 블록 체인에서 유효한 블록을 찾을 수 있습니다.",
-    'nl': "Merge mining is allowed on the SHA256d and Scrypt algorithms. This has enabled Myriad to take advantage of the huge hashrates currently in use by coins using these algorithms. Merge Mining, or AuxPow, allows the work being done for a parent coin (such as Bitcoin or Litecoin) to be used to find valid blocks on Myriad&#39;s blockchain.",
+    'nl': "Samenvoegen is toegestaan op de SHA256d- en Scrypt-algoritmen. Dit heeft Myriad in staat gesteld om te profiteren van de enorme hashrates die momenteel worden gebruikt door munten die deze algoritmen gebruiken. Samenvoegen Mijnbouw, of AuxPow, laat toe dat het werk voor een bovenliggende munt (zoals Bitcoin of Litecoin) wordt gebruikt om geldige blokken te vinden op Myriad's blockchain.",
     'pl': "Scalanie scalania jest dozwolone w algorytmach SHA256d i Scrypt. Umożliwiło to Myriadowi skorzystanie z ogromnych wachlarzów używanych obecnie przez monety za pomocą tych algorytmów. Merge Mining, czyli AuxPow, pozwala na wykonanie pracy nad monetą rodzicielską (np. Bitcoin lub Litecoin) w celu znalezienia prawidłowych bloków na blockchainie Myriad.",
-    'pt': "Merge mining is allowed on the SHA256d and Scrypt algorithms. This has enabled Myriad to take advantage of the huge hashrates currently in use by coins using these algorithms. Merge Mining, or AuxPow, allows the work being done for a parent coin (such as Bitcoin or Litecoin) to be used to find valid blocks on Myriad&#39;s blockchain.",
-    'ro': "Merge mining is allowed on the SHA256d and Scrypt algorithms. This has enabled Myriad to take advantage of the huge hashrates currently in use by coins using these algorithms. Merge Mining, or AuxPow, allows the work being done for a parent coin (such as Bitcoin or Litecoin) to be used to find valid blocks on Myriad&#39;s blockchain.",
+    'pt': "A fusão de mineração é permitida nos algoritmos SHA256d e Scrypt. Isso permitiu a Myriad aproveitar os grandes hashrates atualmente em uso por moedas usando esses algoritmos. Merge Mining, ou AuxPow, permite que o trabalho que está sendo feito para uma moeda original (como Bitcoin ou Litecoin) seja usado para encontrar blocos válidos na cadeia de blocos de Myriad.",
+    'ro': "Exploatarea minieră este permisă pe algoritmii SHA256d și Scrypt. Acest lucru a permis Myriad să profite de uriașul hashrates utilizat în prezent de monedele care utilizează acești algoritmi. Merge Mining sau AuxPow permite efectuarea lucrărilor pentru o monedă parentală (cum ar fi Bitcoin sau Litecoin) pentru a găsi blocuri valide pe blocul de blocuri al Myriad.",
     'ru': "Слияние может быть разрешено на алгоритмах SHA256d и Scrypt. Это позволило Myriad воспользоваться огромными хехратами, которые в настоящее время используются монетами, используя эти алгоритмы. Merge Mining или AuxPow позволяет выполнять работу над родительской монетой (например, биткойн или Litecoin) для поиска действительных блоков в цепочке цепочек Myriad.",
     'zh_CN': "SHA256d和Scrypt算法允许合并挖掘。这使得Myriad能够利用这些算法使用当前硬币使用的巨大hashrate。 Merge Mining或AuxPow允许使用母币（如比特币或莱特币）完成的工作用于在Myriad区块链上查找有效的区块。",
     'zh_TW': "SHA256d和Scrypt算法允許合併挖掘。這使得Myriad能夠利用這些算法使用當前硬幣使用的巨大hashrate。 Merge Mining或AuxPow允許使用母幣（如比特幣或萊特幣）完成的工作用於在Myriad區塊鏈上查找有效的區塊。"
+  },
+  'why-myriad-merge-mining-button': {
+    "ar":"لماذا دمج التعدين؟",
+    "da":"Hvorfor flette minedrift?",
+    "de":"Warum Bergbau zusammenführen?",
+    "es":"¿Por qué fusionar la minería?",
+    "fr":"Pourquoi fusionner l&#39;exploitation minière?",
+    "it":"Perché unire il mining?",
+    "ja":"なぜ鉱山をマージするのですか？",
+    "ko":"왜 광산을 합병합니까?",
+    "nl":"Waarom mijnbouw samenvoegen?",
+    "pl":"Po co scalać wydobycie?",
+    "pt":"Por que fundir mineração?",
+    "ro":"De ce merge mineritul?",
+    "ru":"Зачем сливать добычу?",
+    "zh_CN":"为什么合并采矿？",
+    "zh_TW":"為什麼合併採礦？"
   },
   'why-myriad-distribution-title': {
     'ar': "توزيع",
@@ -290,10 +324,10 @@ const Localizations = {
   },
   'why-myriad-distribution-text': {
     'ar': "تم الافراج عن عدد لا يحصى من البرية في 23 فبراير 2014 في 18:30 بالتوقيت العالمي المنسق. وجاءت أول كتلة الملغومة بعد 4 دقائق، وبالتالي تثبت أنه لم يكن هناك الفرضية. وبلغت المكافأة الأولية 000 1 مير، مما أدى إلى تخفيض عدد كل كتلته إلى 680 967 قطعة (حوالي 48 أسبوعا). إجمالي العرض حوالي 2 مليار مير. زمن الفدرة المستهدفة هو 60 ثانية، أو 300 ثانية لكل خوارزمية.",
-    'da': "Myriad was released to the wild on February 23, 2014 at 18:30 UTC. The first mined block came 4 minutes later, thus establishing that there was no premine. The initial reward was 1,000 MYR, halving every 967,680 blocks (approximately 48 weeks). Total supply is approximately 2 billion MYR. Target block time is 60 seconds, or 300 seconds per algorithm.",
+    'da': "Myriad blev frigivet til naturen den 23. februar 2014 kl. 18:30 UTC. Den første udvandet blok kom 4 minutter senere, hvilket viste, at der ikke var nogen præstation. Den oprindelige belønning var 1.000 MYR og halverede hver 967.680 blokke (ca. 48 uger). Den samlede forsyning er ca. 2 mia. MYR. Målblokkeringstid er 60 sekunder eller 300 sekunder pr. Algoritme.",
     'de': "Myriad wurde am 23. Februar 2014 um 18:30 UTC freigelassen. Der erste abgebaute Block kam 4 Minuten später, wodurch festgestellt wurde, dass es keine Premine gab. Die anfängliche Belohnung betrug 1.000 MYR und halbierte alle 967.680 Blöcke (ungefähr 48 Wochen). Das Gesamtangebot beträgt ca. 2 Milliarden MYR. Die Zielblockzeit beträgt 60 Sekunden oder 300 Sekunden pro Algorithmus.",
     'es': "Myriad fue lanzado al aire libre el 23 de febrero de 2014 a las 18:30 UTC. El primer bloque minado llegó 4 minutos más tarde, estableciendo así que no había ningún prejuicio. La recompensa inicial fue 1,000 MYR, reduciendo a la mitad cada 967,680 bloques (aproximadamente 48 semanas). El suministro total es de aproximadamente 2 mil millones de MYR. El tiempo del bloque objetivo es de 60 segundos o 300 segundos por algoritmo.",
-    'fr': "Myriad was released to the wild on February 23, 2014 at 18:30 UTC. The first mined block came 4 minutes later, thus establishing that there was no premine. The initial reward was 1,000 MYR, halving every 967,680 blocks (approximately 48 weeks). Total supply is approximately 2 billion MYR. Target block time is 60 seconds, or 300 seconds per algorithm.",
+    'fr': "Myriad a été libéré dans la nature le 23 février 2014 à 18:30 UTC. Le premier bloc miné est arrivé 4 minutes plus tard, établissant ainsi qu'il n'y avait pas de premine. La récompense initiale était de 1 000 MYR, divisant par deux tous les 967 680 blocs (environ 48 semaines). L'offre totale est d'environ 2 milliards de MYR. Le temps de blocage cible est de 60 secondes, soit 300 secondes par algorithme.",
     'it': "Miriade è stata rilasciata in libertà il 23 febbraio 2014 alle 18:30 UTC. Il primo blocco estratto è venuto 4 minuti più tardi, stabilendo così che non c&#39;era un premino. La ricompensa iniziale era di 1.000 MYR, dimezzando ogni 967.680 blocchi (circa 48 settimane). L&#39;offerta totale è di circa 2 miliardi di MYR. Il tempo di blocco target è 60 secondi o 300 secondi per algoritmo.",
     'ja': "Myriadは、2014年2月23日18:30 UTCに野生に放出されました。最初の採掘されたブロックは4分後に来たので、予期せぬことはないことを確認した。 当初の報酬は1,000 MYRで、967,680ブロック（約48週間）ごとに半分になりました。総供給量は約20億MYRです。ターゲットブロック時間は、アルゴリズムごとに60秒または300秒です。",
     'ko': "Myriad는 2014 년 2 월 23 일 18시 30 분 UTC에 야생에 공개되었습니다. 첫 번째 채광 된 블록은 4 분 후에 나왔고, 따라서 어떤 premine도 없다는 것을 확인했다. 초기 보상액은 1,000 MYR이었으며, 967,680 블록 (약 48 주)마다 절반이 절약되었습니다. 총 공급량은 약 20 억 MYR입니다. 목표 블록 시간은 알고리즘 당 60 초 또는 300 초입니다.",
@@ -304,6 +338,22 @@ const Localizations = {
     'ru': "Мириад был выпущен в дикую природу 23 февраля 2014 года в 18:30 UTC. Первый заминированный блок пришел через 4 минуты, тем самым установив, что не было премье. Первоначальная награда составляла 1000 MYR, вдвое уменьшая каждые 967 680 блоков (приблизительно 48 недель). Общий объем предложения составляет около 2 млрд. MYR. Целевое время составляет 60 секунд или 300 секунд на каждый алгоритм.",
     'zh_CN': "Myriad于2014年2月23日18:30在全球发布。第一块雷块在4分钟后来到，从而确定没有任何预兆。 最初的奖励是1000马币，每96768块（约48周）减半。总供给约20亿马币。目标块时间是60秒，或每个算法300秒。",
     'zh_TW': "Myriad於2014年2月23日18:30在全球發布。第一塊雷塊在4分鐘後來到，從而確定沒有任何預兆。 最初的獎勵是1000馬幣，每96768塊（約48週）減半。總供給約20億馬幣。目標塊時間是60秒，或每個算法300秒。"
+  },
+  'why-myriad-distribution-button': {
+    "ar":"عرض السجل",
+    "da":"Se historik",
+    "de":"Siehe Verlauf",
+    "es":"Ver historial",
+    "fr":"Voir l&#39;historique",
+    "it":"Visualizza cronologia",
+    "ja":"履歴を表示","ko":"기록보기",
+    "nl":"Bekijk geschiedenis",
+    "pl":"Wyświetl historię",
+    "pt":"Ver histórico",
+    "ro":"Vezi istoricul",
+    "ru":"Посмотреть историю",
+    "zh_CN":"查看历史",
+    "zh_TW":"查看歷史"
   },
   'wallets-section-header': {
     'ar': "محافظ",
